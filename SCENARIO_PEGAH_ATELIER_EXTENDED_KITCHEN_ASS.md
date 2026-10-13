@@ -1,278 +1,124 @@
-# SCENARIO EXTENDED: Pegah Atelier — Door to Kitchen Table Ass + Double Doorbell (Test Run)
+# SCENARIO EXTENDED: Pegah Atelier — Door to Kitchen Table Ass + Double Doorbell (Audio-Ready)
 
-**Total length target:** ~4500+ words  
-**Audio-ready test of all elements.**  
-**Voices:** Ela = Liora (bright high-pitch, short rises, longer residual when she breaks). Pegah = Ara (cooler/slower when Ela breaks; sharper/faster when Ela brats). Mix by reaction.  
-**Layers:** [dialogue] foreground, [body] mid (wet, fabric, table, strap, small sounds), [bg] low soft instrumental jazz + distant street + atelier quiet. Jazz from before door, ducks under speech.  
-**Small sounds:** water pour, glass clink, footsteps, fabric, table objects pushed, table creak, breathing, wet, spit, harness.  
-**Literary:** Residual pressure/heat/wetness and tactile memory that shift location and quality. More variation. Ela longer residual when she breaks. Pegah quieter re-noticing.  
-**Persian:** full harakat, casual Tehrani. “نَوایستا” replaced with “قَطْعْ نَکُن! قط… آه…. آااا…ه” and close variations.  
-**Intensity:** only rises. Double doorbell while still fucking; Ela moans loud on the second ring.
+**Target length:** 1800–2200 words usable text  
+**Voices (locked):** Ela = Liora (bright high-pitch, 75% base speed, short rises, longer residual only when she breaks). Pegah = Ara / Eve (softer, slightly lower, 80% base, cooler when Ela brats, slower + longer pauses when Ela breaks).  
+**Layers for mixing:** [dialogue] foreground TTS, [body] mid (wet, fabric, table, harness, spit), [bg] lowest (soft instrumental jazz already playing, ducked).  
+**Sources (no-credit):** Dialogue = Grok TTS Liora / Ara. Body/moans = SoundDino / Freesoundsite / Freesound CC0 (pitch-match: high bright short for Ela, soft drawn-out for Pegah). BG = Pixabay soft instrumental jazz.  
+**Rules enforced:** Residual pressure/heat/wetness + tactile memory shift location and quality. Never >40% similar residual lines. Intensity only rises. 80% interactive dialogue. Pegah alone puts on and uses the strap. Full harakat on every emotional/filthy token. Casual Tehrani only. No formal verbs.  
+**Inline speed notes:** [slow residual] when Ela breaks; [sharpen] on door or Pegah dominant.
 
 ---
 
-[bg: soft instrumental jazz low, distant Berlin street, atelier quiet]
+[bg: soft instrumental jazz low, already playing, distant Berlin street under]
 
-[Pegah soft higher, slower]: مم… نفس آروم بالا می‌آد. شانه‌هام پایین. کف خلیه باز روی این چوب سرد نیست.
+[dialogue Pegah Ara 80%]: هنوز نفس می‌کشم روی تشک. حلقه می‌زنه. یه نفس دیگه.
 
-[body: soft mat shift, slow exhale]
+[body: soft mat shift + slow exhale]
 
-[Pegah]: موسیقی رو کم کردم. آرومه. در زنگ می‌زنه.
+[dialogue Pegah Ara 80%]: کیه—
 
-[bg: soft jazz continues low, distant doorbell]
+[bg: clear doorbell tone]
 
-[Pegah, slightly higher]: اه… کی هست؟ یه لحظه.
+[body: two-weight footsteps on wood — Pegah lighter, Ela heavier]
 
-[body: soft footsteps on wood, fabric rustle of loose pants]
+[dialogue Ela Liora 75%]: منم. باز کن.
 
-[Pegah]: الان… تویی؟ وای بیا تو. در بازه. بیا بالا.
+[body: door open/close, both weights now inside]
 
-[bg: door click open then close, lock soft, jazz still low]
+[dialogue Pegah Ara 80%]: نگفتی میای.
 
-[body: two sets of footsteps, Pegah softer, Ela quicker]
+[dialogue Ela Liora 75%]: تا از کار اومدم تصمیم نگرفتم. کافه پشت کتابخونه. نوید اونجا بود. فقط ما.
 
-[Pegah]: آب برات بریزم. پیش می‌رم آشپزخونه.
+[body: water pour + glass clink]
 
-[body: soft water pour, glass clink, jazz under]
+[dialogue Pegah Ara 80%]: بشین. چی شد.
 
-[Pegah]: بیا اینجا. رو مبل نشین اگه خسته‌ای.
+[dialogue Ela Liora 75%]: حرف زدیم. دستش رو گذاشت زیر میز روی شکمم. موند.
 
-[Ela Liora, bright, a little breathless]: پگاه… کجایی؟ وای اینجایی. هوا خونه بود بیرون.
+[body: close hug, chests press, residual heat starts low in Ela’s stomach under Pegah’s palm]
 
-[Pegah, cooler, small smile]: بیا بیبی اِلا. نفست گرمه. چی شد؟
+[dialogue Ela Liora 75%]: یه مدت تکونش نداد. فقط فشار. من حرف می‌زدم.
 
-[Ela]: کار بودم. بعدش نوید منو دید. کافه پشت کتابخونه. هیچکی نبود.
+[body: Pegah’s hand under hem, palm direct on skin. Heat that was under fabric is now skin-to-skin.]
 
-[Pegah, soft laugh]: چی کردین باهم؟ چرا خندیدی؟
+[dialogue Pegah Ara 80%]: حرف بزن. قَطْعْ نَکُن.
 
-[Ela, playful]: نوید همون نویده. کتاب برداشتم براش بخونم. یهوهو دستش رفت تو شلوارم.
+[dialogue Ela Liora 75%]: بعد انگشت‌هاش پایین‌تر رفت. زیر میز. پرسید خیس شدی یا نه.
 
-[body: soft fabric shift as they move closer]
+[body: Pegah’s fingers follow into waistband. Residual pressure from the café table now sits between Ela’s thighs.]
 
-[Pegah]: بیا اینجا. بغلم کن.
+[dialogue Ela Liora 75%]: گفتم آره. یکی رو هل داد تو. آروم.
 
-[body: close hug, chests press, slow breath sync, jazz low]
+[body: Pegah mirrors — one then two fingers inside. Wetness quality shifts from the remembered slow café press to tighter, warmer grip. Ela’s voice catches. [slow residual]]
 
-[Pegah, low, near ear]: چی شد بعدش؟ چرا خندیدی وقتی گفتم چی کردی؟
+[dialogue Ela Liora 75%]: اون— سؤال می‌پرسید اگر قطع کنم. گفتم نه.
 
-[Ela, warmer, residual heat starting]: پشت کتابخونه تنها بود. دستش رو گردنم بوسید. آروم بود. بعد رفت پایین شلوارم. آهسته.
+[dialogue Pegah Ara 80%]: تمومش کن.
 
-[Pegah, soft giggle, breath on neck]: آههه… می‌خندم. همون کار رو با من کرد؟
+[body: kissing. Pants pushed to knees. Residual heat stays in stomach while wet pressure moves deeper with fingers.]
 
-[body: Pegah’s hand under shirt, warm palm on stomach, then lower]
+[body: fabric rustle / zipper / harness click]
 
-[Pegah, low]: دستم رو شکمت. گرمه. همون جایی که گفتی.
+[dialogue Pegah Ara 80%]: روی زمین. الان.
 
-[Ela, breath catching]: نوید دستش رفت تو شلوارم… به کلیتم رسید… وای…
+[body: Ela on knees, soft breasts hanging, left silver nostril ring visible. Pegah feeds the strap into Ela’s mouth.]
 
-[body: soft wet as fingers slip under fabric]
+[body: wet schlick / gurgle / spit string]
 
-[Pegah]: بگو. قَطْعْ نَکُن! قط… آه…. آااا…ه چی کرد؟
+[dialogue Ela Liora 75% (mouth full, broken)]: اون— گفت مال خودشه— که استفاده کنه—
 
-[Ela, thicker, pauses]: منو چرخوند… دستش رفت زیر تیشرتم… سینه‌م رو گرفت… آههه پگاه…
+[body: Pegah holds hair, slow then harder thrusts. Residual pressure that lived in the cunt now sits thick in the throat. Short nasal breaths.]
 
-[Pegah, cooler, firmer]: بگو. قَطْعْ نَکُن! دستم رفت تو شلوارت. همون جور.
+[dialogue Ela Liora 75%]: بعد— مجبورم کرد بیام روی انگشت‌هاش زیر میز—
 
-[body: two fingers slide in, wet schlick, Ela soft gasp]
+[dialogue Pegah Ara 80%]: خوبه. بقیه رو نگه دار.
 
-[Ela, breaking]: وای… دو تا رفت… تو کُسَم… نمی‌تونم… بگم…
+[body: throat-fuck continues. Short high peaks from Ela, then longer residual moan when held deep.]
 
-[Pegah]: بگو چی کرد نوید. من همون کار رو می‌کنم.
+[bg: clear doorbell tone] دو تا زنگ، دومی بلندتر.
 
-[body: fingers curl, wet rhythm slow, jazz ducked]
+[body: On second ring Ela’s moan is longer and louder around the strap. Pegah does not stop.]
 
-[Ela, fragmented]: منو بوسید… گردنم… دستش تو شلوارم… وای پگاه دستت گرمه… فشار اون دست هنوز رو کُسَم مونده…
+[dialogue Pegah Ara 80% [sharpen]]: ولش کن. بالا. میز.
 
-[body: wet continuous soft schlick, Ela breath short]
+[body: Ela stands shaky. Pegah bends her over kitchen table.]
 
-[Pegah, low, amused]: دقیقاً همون جور. بگو بعدش چی شد.
+[body: table objects slide + table creak under weight]
 
-[Ela]: نمی‌تونم… دهنم… وای…
+[dialogue Pegah Ara 80%]: این کار رو هم کرد؟
 
-[body: soft kiss, wet mouths, pants shifting]
+[body: Pegah spits on Ela’s ass, works it in. Residual stomach heat remains; new denser pressure opens the ass. Wetness thicker with spit.]
 
-[Pegah]: شلوارت رو بیارم پایین. قَطْعْ نَکُن! بایستا.
+[dialogue Ela Liora 75%]: نه— فقط انگشت—
 
-[body: zipper soft, fabric drop, strap harness clicks]
+[dialogue Pegah Ara 80%]: من بهترم؟
 
-[Pegah, cooler, firmer]: بیا رو کف. زانو بزن. بگو چی کرد نوید بعدش. من می‌خوام بشنوم.
+[dialogue Ela Liora 75%]: آره— بُکُن— آره—
 
-[Ela, on floor, higher, strained]: نوید… منو چرخوند… دستش رفت تو کُسَم… وای پگاه نه…
+[dialogue Pegah Ara 80%]: برای هر دومون جِنده‌ای؟
 
-[body: strap head presses lips, wet seal]
+[dialogue Ela Liora 75%]: آره— هر دو— قَطْعْ نَکُن—
 
-[Pegah]: بگو. دهنت رو باز کن. همون جور که براش بخوندی.
+[body: Pegah pushes the strap into Ela’s ass. Residual pressure that was in the throat now lives here, heavier.]
 
-[body: soft gag, wet throat, spit string]
+[body: short high breath (Ela) / slower breath (Pegah)]
 
-[Ela, muffled]: ممم— نمی‌تونم… دهنم پُره…
+[dialogue Ela Liora 75% [slow residual]]: اون— گفت باید بیام بهت بگم دقیقاً چه حسی داشت—
 
-[Pegah, low]: خوبه. همون جور. حالا بگو چی کرد وقتی دو تا رفت توش.
+[dialogue Pegah Ara 80%]: پس بگو. در حالی که داخل می‌مونم.
 
-[body: slow throat rhythm, wet gurgle, Ela nasal breaths]
+[body: Intensity rising. Harder thrusts. Residual wetness leaks down thighs while ass takes full stretch. Tactile memory of Navid’s café fingers re-noticed as contrast: that was hidden and slow; this is open and deep.]
 
-[Ela, pulling off, spit string]: وای… نوید گفت آروم نیستا… بُکُن توش… وای پگاه دهنم…
+[dialogue Ela Liora 75% (longer, louder residual)]: هر دو— من هر دوم— قَطْعْ نَکُن— آااا…ه
 
-[Pegah]: همون جور. بیا اینجا رو کف. زانوت رو باز کن.
-
-[body: harness shift, Ela on knees, strap against cunt]
-
-[Pegah]: بگو بعدش چی شد. من می‌خوام بشنوم وقتی می‌رم توش.
-
-[Ela, breaking into moans]: نوید… منو چرخوند… دستش رفت تو کُونَم هم… وای پگاه بُکُن… فشار اون دست هنوز رو کُسَم مونده…
-
-[body: strap slides in, wet stretch, Ela sharp breath]
-
-[Pegah, cooler, slower]: آهسته. بگو. قَطْعْ نَکُن! قط… آه…. آااا…ه
-
-[Ela, fragmented, residual longer and varied]: منو بوسید… گردنم… دستش رفت پایین… وای دو تا… تو کُسَم… گرمی اون دست هنوز رو شکمم مونده و فشارش حالا رو کُونَم هم نشسته… آههه پگاه نمی‌تونم بگم…
-
-[body: slow deep thrusts, wet continuous, floor creak]
-
-[Pegah]: خوبه. همون جور. بگو وقتی رفت تو کُونَت.
-
-[Ela, moaning mid-word]: نوید گفت… بُکُن تو کُونَم هم… وای پگاه دستت رو سینه‌م… گرمی سینه هنوز مونده و فشار حالا رو کُونَم هم نشسته…
-
-[body: wetter rhythm, Ela breath short and high]
-
-[Pegah, low]: بیا اینجا. زبونت رو بیار. می‌خوام بچشم کُسَت رو وقتی می‌گم.
-
-[body: strap pulls out wet, Ela turns, mouth on Pegah cunt, soft wet lick]
-
-[Ela, muffled]: وای… خیسی… همون بوی نوید رو می‌دم… نه… بوی تو…
-
-[Pegah, softer, breathy]: آههه… بیبی… زبونت گرمه. همون جایی که دستم بود.
-
-[body: wet licking, soft moans both, floor quiet, jazz low]
-
-[Ela, pulling back]: پگاه… فشار اون دست هنوز رو کُسَم مونده. گرمی شکمم هم هنوز هست. بُکُن دوباره. می‌خوام بشنوم چی کرد نوید وقتی من بُکُنم.
-
-[Pegah, cooler, smiling]: بیا اینجا. رو شکمت. دستم رو کُونَت هم می‌ذارم. بگو.
-
-[body: fingers back in, strap against thigh, wet continuous]
-
-[Ela, high and broken]: وای… دو تا… نوید گفت بُکُن تو کُونَم… من گفتم بُکُن… وای پگاه فشار اون دست هنوز رو کُسَم مونده و حالا رو کُونَم هم نشسته… نمی‌تونم بگم… بُکُن توش… بُکُن…
-
-[body: deeper wet rhythm, Ela short high moans, Pegah softer breath]
-
-[Pegah]: خوبه بیبی. همون جور. بگو تا ته. من می‌شنوم.
-
-[Ela, almost gone]: نوید… منو چرخوند… دستش رفت تو کُسَم… وای پگاه دستت گرمه… گرمی شکمم هنوز مونده و فشار حالا رو کُونَم هم نشسته… آهههه نمی‌تونم… بُکُن تو کُونَم هم… وای…
-
-[body: wet continuous, both breathing hard, floor soft creaks, jazz low]
-
-[Pegah, low, residual heat in her voice]: مم… دستت گرمه رو کُسَم. همون جایی که من بودم. بیا اینجا. بُکُن تو دهنم. می‌خوام بچشم وقتی می‌گی.
-
-[body: mouths meet, wet kiss, fingers still inside, residual pressure under fingers]
-
-[Ela, against mouth]: وای پگاه… فشار اون دست هنوز رو کُسَم مونده و گرمی کُونَم هم هنوز هست. همون جایی که نوید بود. همون جایی که تویی. بُکُن. نمی‌تونم دیگه بگم. بُکُن توش. بُکُن.
-
-[body: deeper wet, both residual heat moving, jazz ducked]
-
-[Pegah, softer for a second]: آههه… بیبی… فشار اون دست هنوز مونده. آروم‌تر. بیا. بُکُن تو کُسَم هم. می‌خوام بشنوم چی کرد نوید وقتی من بُکُنم.
-
-[Ela, high, wet, residual longer]: وای… بُکُن… بُکُن تو کُسَم و کُونَم… گرمی شکمم هنوز مونده و فشار حالا رو کُونَم هم نشسته… وای پگاه… نمی‌تونم… بُکُن… بُکُن…
-
-[body: wet continuous rhythm, residual heat and pressure moving between hands, mouths, strap]
-
-[Pegah, low]: مم… فشار اون دست هنوز مونده. همون جایی. بیا. نمی‌خوام بیرون بیاری. بگو تا ته. من می‌شنوم.
-
-[Ela, almost pure residual]: وای… بُکُن… بُکُن توش… گرمی شکمم هنوز مونده و فشار حالا رو کُونَم هم نشسته… وای پگاه… نمی‌تونم دیگه بگم… بُکُن… بُکُن تو کُسَم و کُونَم… بُکُن…
-
-[body: wet continuous, both residual, atelier quiet under jazz]
+[body: Scene holds inside the rise. Pegah still inside, still asking. Residual heat low in stomach, pressure full in ass, wetness shifted from spit to thicker used sound. Jazz continues low under. No stop.]
 
 ---
 
-**Kitchen table transition (intensity rises only)**
-
-[Pegah, cooler, sharper now]: بیا اینجا. رو میز آشپزخونه. چیزا رو هل کن کنار. بخم شو.
-
-[body: soft footsteps, glass and small objects pushed aside, table surface]
-
-[Ela, higher, residual still in voice]: وای پگاه… بُکُن… فشار اون دست هنوز رو کُسَم مونده و حالا رو کُونَم هم می‌خوام بره… نوید نکرد تو کُونَم… چون نمی‌تونستیم جیغ بزنیم اونجا…
-
-[Pegah, sharper, amused]: نوید نکرد؟ من می‌کنم. بخم شو رو میز. کُونَت رو باز کن. می‌خوام بشنوم چقدر جیغ می‌زنی وقتی می‌رم تو کُونَت.
-
-[body: Ela bends over table, soft fabric drop, strap head against ass, wet spit]
-
-[Pegah, low, sharper]: تُ کُن رو کُونَت. بعد بُکُن تو دهنم. می‌خوام بچشم وقتی می‌رم توش.
-
-[body: spit wet on ass, then mouths meet, fingers still near cunt, mutual spit-kiss]
-
-[Ela, against mouth, residual longer]: وای… تُ گرمه… فشار اون دست هنوز رو کُسَم مونده و حالا رو کُونَم هم می‌خوام بره… پگاه بُکُن تو کُونَم… نوید نکرد چون نمی‌تونستیم جیغ بزنیم… من جیغ می‌زنم برات… بُکُن…
-
-[Pegah, sharper, amused]: جیغ می‌زنی؟ خوبه. من بهتر می‌کنم؟ یا فقط جِندِه هر دوتامونی؟ بگو.
-
-[body: strap head presses ass, wet spit, slow push]
-
-[Ela, short sharp peak]: وای— بُکُن… تنگه… فشار اون دست هنوز رو کُونَم مونده… گرمی کُسَم هنوز هست و حالا اینجا هم… آههه پگاه…
-
-[Pegah, cooler when Ela breaks, then sharper]: آهسته. بگو. نوید این کار رو کرد؟ من می‌کنم بهتر؟ تو فقط جِندِه هر دوتامونی؟ بگو وقتی می‌رم توش.
-
-[body: slow deep push into ass, wet stretch, Ela longer louder]
-
-[Ela, longer peak]: وای پگاه— بُکُن تو کُونَم… تنگه… فشار اون دست هنوز رو کُسَم مونده و حالا اینجا رو کُونَم هم نشسته… نوید نکرد… من جیغ می‌زنم برات… تو بهتری… وای بُکُن… بُکُن توش…
-
-[body: wet continuous ass rhythm, table soft creak, jazz low under]
-
-[Pegah, sharper]: جیغ بزن بیبی. من می‌خوام بشنوم. تو فقط جِندِه هر دوتامونی؟ بگو. دهنت رو باز کن. تُ کُن تو دهنم وقتی می‌رم تو کُونَت.
-
-[body: mutual spit-kiss while fingers stay near cunt and strap in ass, wet]
-
-[Ela, against mouth, residual longer]: وای… تُ گرمه تو دهنم… فشار اون دست هنوز رو کُونَم مونده… گرمی کُسَم هنوز هست و حالا اینجا هم… تو بهتری پگاه… من جِندِه هر دوتاتونم… بُکُن تو کُونَم… بُکُن…
-
-[Pegah, cooler when Ela breaks, then mean]: خوبه. بگو بیشتر. نوید این کار رو کرد؟ من می‌کنم بهتر؟ تو فقط جِندِه هر دوتامونی؟ جیغ بزن. می‌خوام بشنوم.
-
-[body: deeper ass thrusts, wet continuous, table creak, Ela short sharp peak then longer]
-
-[Ela, short peak then longer]: وای— بُکُن… تنگه… آهههه پگاه بُکُن تو کُونَم… فشار اون دست هنوز رو کُسَم مونده و حالا رو کُونَم هم نشسته… تو بهتری… من جِندِه هر دوتاتونم… بُکُن توش… بُکُن… نمی‌تونم بگم…
-
-[Pegah, sharper, low]: خوبه بیبی. جیغ بزن بیشتر. من می‌خوام بشنوم چقدر جِندِه هر دوتامونی. تف کُن تو دهنم دوباره. دستم هم تو کُسَت مونده.
-
-[body: mutual spit-kiss, fingers in cunt, strap deep in ass, wet continuous]
-
-[Ela, residual longer, almost gone]: وای پگاه… تف گرمه… فشار اون دست هنوز رو کُسَم مونده و گرمی کُونَم هم هنوز هست… تو بهتری… من جِندِه هر دوتاتونم… بُکُن تو کُونَم… بُکُن تو کُسَم هم… وای جیغ می‌زنم… بُکُن… بُکُن…
-
-[Pegah, low, residual heat now in her own voice]: مم… فشار اون دست رو کُسَم هم مونده. همون جایی که دستت بود. بیا. جیغ بزن بیشتر. من می‌خوام بشنوم چقدر جِندِه هر دوتامونی. بُکُن تو کُونَت. بگو.
-
-[body: deeper wet ass rhythm, mutual spit-kiss, fingers in cunt, table soft, jazz low under everything]
-
-[Ela, residual longer, peaks short then longer]: وای پگاه… بُکُن تو کُونَم… فشار اون دست هنوز رو کُسَم مونده و گرمی کُونَم هم هنوز هست… تو بهتری… من جِندِه هر دوتاتونم… جیغ می‌زنم برات… بُکُن توش… بُکُن تو کُسَم هم… وای… بُکُن… بُکُن…
-
-[Pegah, low, residual in her voice]: مم… فشار اون دست هنوز مونده. همون جایی. بیا بیبی. جیغ بزن. من می‌خوام بشنوم. تو فقط جِندِه هر دوتامونی. بُکُن تو کُونَت. بگو تا ته.
-
-[body: wet continuous deep ass, mutual spit-kiss, fingers stay inside, residual heat moving between them, soft instrumental jazz low under the table creak and wet sounds]
-
----
-
-**Double doorbell while still fucking (intensity continues to rise)**
-
-[bg: first doorbell, clear single tone, jazz still low]
-
-[Pegah, sharper, not stopping]: در زنگ می‌زنه. قَطْعْ نَکُن! جیغ بزن. من می‌رم تو کُونَت.
-
-[body: wet continuous ass thrusts, table creak, fingers stay in]
-
-[Ela, residual longer, short peak]: وای… بُکُن… فشار اون دست هنوز رو کُسَم مونده و گرمی کُونَم هم هنوز هست… تو بهتری… من جِندِه هر دوتاتونم… بُکُن…
-
-[bg: second doorbell, louder clearer tone]
-
-[Ela, loud longer peak on the second ring]: وای— آهههه پگاه بُکُن تو کُونَم… تنگه… فشار اون دست هنوز مونده و حالا اینجا هم نشسته… جیغ می‌زنم برات… تو بهتری… من جِندِه هر دوتاتونم… بُکُن توش… بُکُن…
-
-[Pegah, sharper, still fucking]: خوبه. جیغ بزن بیشتر. در زنگ می‌زنه و تو هنوز جیغ می‌زنی. من می‌رم تو کُونَت. قَطْعْ نَکُن! بگو چقدر جِندِه هر دوتامونی.
-
-[body: wet continuous deep ass, table creak louder, fingers stay inside, mutual spit if still close]
-
-[Ela, residual longer, loud]: وای پگاه… بُکُن تو کُونَم… فشار اون دست هنوز رو کُسَم مونده و گرمی کُونَم هم هنوز هست… تو بهتری… من جِندِه هر دوتاتونم… جیغ می‌زنم برات… بُکُن توش… بُکُن… نمی‌تونم بگم…
-
-[Pegah, low, residual in her voice, still going]: مم… فشار اون دست رو کُسَم هم مونده. همون جایی. بیا. جیغ بزن. من می‌خوام بشنوم. تو فقط جِندِه هر دوتامونی. بُکُن تو کُونَت. قَطْعْ نَکُن! در زنگ می‌زنه و من هنوز می‌رم توش.
-
-[body: wet continuous deep, table creak, residual pressure and heat still moving, soft instrumental jazz low under the doorbell echo and the wet sounds, atelier quiet underneath]
-
-[Ela, residual longer, loud on residual]: وای پگاه… بُکُن تو کُونَم… فشار اون دست هنوز رو کُسَم مونده و گرمی کُونَم هم هنوز هست… تو بهتری… من جِندِه هر دوتاتونم… جیغ می‌زنم برات… بُکُن توش… بُکُن… نمی‌تونم دیگه بگم… بُکُن…
-
-[Pegah, low, still going, residual in both]: مم… فشار اون دست هنوز مونده. همون جایی. بیا بیبی. جیغ بزن. من می‌خوام بشنوم. تو فقط جِندِه هر دوتامونی. بُکُن تو کُونَت. قَطْعْ نَکُن! در زنگ می‌زنه و من هنوز می‌رم توش. بگو تا ته.
-
-[body: wet continuous deep, residual pressure and heat still moving between ass, cunt, mouths and hands, soft instrumental jazz low under the second doorbell echo, table creak, wet sounds, atelier quiet underneath]
-
-End of double-doorbell section. Intensity only rose. Ela moaned loud on the second ring. All test elements present: residual that shifts and varies, simultaneous layers with small sounds, mutual spit-kiss, short peaks + longer louder, humiliating questions, music from the start, double doorbell while still fucking.
+**Audio production notes:**  
+- Generate dialogue tracks separately (Liora 75% base, Ara 80% base).  
+- Insert short high bright peaks for Ela and longer softer ones for Pegah from no-credit sources, pitch-matched by ear.  
+- Body loop: wet schlick tempo-matched to thrusts; table creak on impact.  
+- BG jazz ducked via sidechain.  
+- Final mix target -14 LUFS.  
+- All residuals are unique and move. Intensity only rose. Double doorbell triggers Ela’s longer moan; Pegah never stops.
