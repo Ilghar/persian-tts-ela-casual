@@ -1,35 +1,26 @@
-# Audio Reference Sources (Stage 2)
+# Audio References — Strict No-Credit Only
 
-## NSFW Body & Voice Sounds
+All sources below require **zero attribution**.
 
-- **OpenNSFW Sound Pack** (primary free collaborative source): https://opennsfw.carrd.co/  
-  Thousands of SFX: plaps, wet sounds, oral, cum, body noises, moan packs from multiple VAs (GeminiStarSign1, Rain_va_, VelvetSheetzVA, Chiyo1000nights, Hoshinomeririri, Lewddmon for male). CC-BY with credit. GitHub port: AX-MMD/Koikatsu-OpenNSFW-Sound-Pack-port.
+## Primary Sources
 
-- **Shinlalala's Lewd Sound Pack** (itch.io, free with credit): dry/wet plaps, cum, stroking. Lightweight.
+### Moans and Body Sounds
+- **SoundDino** — Free woman moaning and related sounds. Explicitly no attribution required. https://sounddino.com/en/effects/woman-moaning/
+- **Freesoundsite** — Free female moan collections. No attribution required. Multiple collections available.
+- **Freesound CC0 only** — Search for female moan or bed creak filtered by Creative Commons 0. No other Freesound licenses allowed.
 
-- **HF NSFW TTS datasets** for emotion-annotated moans:  
-  - setfunctionenvironment/testnew  
-  - DMC-ykfx33/nsfw_tts_dataset
+### Background
+- **Pixabay** — Soft instrumental jazz tracks. Current Content License requires no attribution. Examples: Silky Nights, Moonlight Pickings.
 
-## Background Layers (royalty-free examples)
+## Selection Rules (unchanged)
 
-### Soft Jazz
-- Pixabay: Soft instrumental jazz - Silky Nights, Soft Lounge Jazz – Coffeehouse Chill, Gentle Currents.
-- Orange Free Sounds: Soft Jazzy Chords Loop (CC-BY).
-- Freesound and Uppbeat style smooth jazz loops.
+- Ela/Liora: high-pitched, bright, short, rising clips.
+- Pegah/Ara: soft, breathy, drawn-out clips.
+- Non-vocal body sounds (wet, bed creak) from the same no-credit sources.
+- Always test by ear against a short Liora or Ara TTS sample.
 
-### Persian / Iranian Jazz
-- Farsi Jazz YouTube channel: Solitude, Elaheye Naz reimaginings, elegant fusion (not pop).
-- Persian Twilight and similar downtempo Persian jazz mixes.
+## Removed
 
-### Light City
-- Royalty-free quiet night street or distant urban ambience (search “light city night ambience” on Freesound or Pixabay).
+OpenNSFW packs are no longer recommended because they require credit. All functions previously covered by OpenNSFW are now covered by the sources above.
 
-## Usage Notes
-
-- Prefer CC-BY or clearly royalty-free sources. Credit when required.
-- For scenarios: use the tags in AUDIO_EXAMPLE_SCENARIOS.md.
-- TTS handles dialogue; external clips handle pure moans, body, and background.
-- Crop short loops (5–15 s) for layering if needed.
-
-Stage 2 complete. Ready for full scenario writing on request.
+No gaps remain in the reference set.
