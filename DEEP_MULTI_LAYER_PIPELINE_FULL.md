@@ -1,4 +1,4 @@
-# Deep Multi-Layer Audio Pipeline — Full Implementation
+# Deep Multi-Layer Audio Pipeline — Full Implementation (No-Credit)
 
 Comprehensive system integrating TTS dialogue, sidechain ducking, advanced mixing, spatial techniques, and character voice fit for Ela (Liora) and Pegah (Ara).
 
@@ -52,12 +52,11 @@ ffmpeg -i ela_dialogue.wav -i pegah_moan.wav -i body.wav -i bg.wav \
 - Never use mismatched pitch clips.
 - Tempo of body sounds must match described rhythm.
 
-## 6. Production Notes from Research
+## 6. Source Recommendation (Strict No-Credit)
 
-- Dialogue should carry most of the dramatic weight; effects support it.
-- Variable intensity at peaks sounds more authentic than constant loudness.
-- Prefer short loopable clips for body and background.
-- Credit sources (OpenNSFW CC-BY, etc.).
+- Moans and body sounds: SoundDino, Freesoundsite, or Freesound CC0 only.
+- Background jazz: Pixabay (Content License, no attribution required).
+- See AUDIO_REFERENCES.md and STRICT_NO_CREDIT_WORKFLOW.md for full list.
 
 ## 7. Testing Checklist
 
@@ -67,5 +66,6 @@ ffmpeg -i ela_dialogue.wav -i pegah_moan.wav -i body.wav -i bg.wav \
 - [ ] Body sounds match tempo
 - [ ] Final loudness consistent (-14 LUFS)
 - [ ] Character voice fit maintained (no mismatched pitch)
+- [ ] All clips from no-credit sources only
 
-This document consolidates all previous stages into one deep, production-ready pipeline.
+This document consolidates all previous stages into one deep, production-ready pipeline under the strict no-credit workflow.
