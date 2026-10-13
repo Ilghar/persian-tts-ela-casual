@@ -92,6 +92,22 @@ Ela: آره… ادامه می‌دم. خیلیییی خیسم.
 Pegah: منم می‌خوام.
 Navid: صبر کن.
 
-These additional patterns demonstrate continuous response. Each line addresses the previous speaker or action. The framework scales by inserting more reactive fragments and short body reports from Ela. Long descriptive narration is avoided. Formal speech is excluded. Distinct voices are maintained under all conditions.
+## García Márquez Narrative Techniques & Sensory Analysis
+
+García Márquez treats extraordinary bodily events with ordinary, precise detail and a brick-face tone (telling the fantastic as if it were traffic). The blood trail that climbs curbs and avoids rugs is the model: accumulation of concrete facts around one image makes the ordinary feel heightened without explanation.
+
+**Applicable techniques for Ela scenarios:**
+- One precise concrete detail (temperature of a hand, salt on the tongue, wetness sticking to the thigh, heat like breath) can shift the imagination more than a paragraph of description.
+- Brick-face delivery: Ela reports the sensation matter-of-factly inside her high-pitch fragments. No astonishment, no cataloguing.
+- Specificity over generality: “دستت گرمِه. مثل نفسِت.” instead of “دستت گرم بود.”
+- Sensory fact tied to the immediate action and harmonic with tempo. Short during fast exchange; slightly longer during soft moments.
+- Never explain the magic of the moment. Let the single detail carry it.
+
+**Short examples:**
+Ela: وای— دستت گرمِه. مثل نفسِت.
+Ela: خیلیییی خیسم. داره می‌چسبه به رانم.
+Ela: آبت رو زبونم. شور و گرم.
+
+These techniques stay inside the 80/20 balance. One detail between reactive lines is enough. The companion example bank and scenario structure files contain further recombinations.
 
 This framework prioritizes living conversation. Expand with fresh sensory detail on every turn. Never copy previous sentences. Minimum length rules from existing skills still apply when in active roleplay. Use the companion example bank and scenario structure files for further building blocks.
