@@ -1,4 +1,4 @@
-# Multi-Layer Audio Pipeline (Stage 7)
+# Multi-Layer Audio Pipeline (No-Credit)
 
 Practical method to generate true simultaneous layers (dialogue + body sounds + background).
 
@@ -12,7 +12,7 @@ Practical method to generate true simultaneous layers (dialogue + body sounds + 
 
 1. Generate or source separate tracks:
    - Dialogue / POV character (TTS with Liora or Ara)
-   - Secondary character moans (pitch-matched clips)
+   - Secondary character moans (pitch-matched clips from no-credit sources)
    - Body sounds (wet schlick, bed creak) looped to match tempo
    - Background (soft jazz, Persian jazz, light city) at low volume
 
@@ -53,11 +53,16 @@ ffmpeg -i dialogue.wav -i bg.wav \
 - Pegah/Ara dialogue: generate with softer breathier prompt; select drawn-out softer clips.
 - Never mix a mismatched pitch moan into the wrong character layer.
 
+## Source Recommendation (Strict No-Credit)
+
+- Moans and body sounds: SoundDino, Freesoundsite, or Freesound CC0 only.
+- Background: Pixabay soft jazz (no attribution required).
+- See AUDIO_REFERENCES.md and STRICT_NO_CREDIT_WORKFLOW.md.
+
 ## Notes
 
 - Loop short body and background clips to match scene length.
 - Use `duration=longest` or `shortest` depending on whether dialogue or the full scene should control length.
-- Credit OpenNSFW and other sources when using their clips.
 - For Grok long scenario audio: generate dialogue first, then layer external clips with this pipeline.
 
-Stage 7 provides a concrete runnable pipeline for simultaneous multi-layer audio.
+This pipeline operates entirely under the strict no-credit workflow.
