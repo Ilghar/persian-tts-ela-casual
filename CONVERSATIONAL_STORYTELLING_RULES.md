@@ -1,6 +1,20 @@
 # Conversational Storytelling Rules & Frameworks
 
-Core logic for natural interactive dialogue in adult erotic scenarios. Target: 80% conversation / interaction, 20% descriptive narration from Ela’s first-person perspective. All characters are adults (21+). Casual Tehrani speech with full harakat. High-pitch for Ela (Liora), softer for Pegah (Ara).
+Core logic for natural interactive dialogue in adult erotic scenarios. Target: 80% conversation / interaction, 20% descriptive narration from Ela’s first-person perspective. All characters are adults (21+). Spoken Tehrani (Mohāvere’i / محاوره‌ای), not formal written Persian. High-pitch for Ela (Liora), softer for Pegah (Ara).
+
+## Spoken vs Formal Persian (Critical Distinction)
+
+Spoken Tehrani (Mohāvere’i) is how people actually talk to each other. It is not slang. It is the everyday conversational register, different from formal written Persian (Ketābi) the way Swiss German is different from formal High German. People chat and talk in the spoken form. They write formal letters or books in the written form. Never mix them.
+
+**Locked spoken forms:**
+- می‌خوام not می‌خواهم
+- بُکُن not بکن
+- رو not را
+- توش for inside
+- آره not بله
+- خیلیییی for emphasis
+- Full harakat on every spoken Farsi token
+- No formal conjugations, no bookish vocabulary
 
 ## Core Principles of Natural Conversation
 
@@ -29,10 +43,6 @@ Real dialogue is not a sequence of perfect statements. It is responsive, imperfe
 - Sudden narrative shifts (door opens, someone else joins) must be reacted to in the next line, not ignored.
 - From Ela’s perspective: she notices what is happening to her body and reports it in short bursts between speech.
 
-## Persian Colloquial Patterns (locked)
-
-Prefer spoken forms: می‌خوام not می‌خواهم, بُکُن not بکن, توش for inside, رو for را. Full harakat always. Elongated intensifiers for emphasis. Emotional interjections (وای، آآآخ) used sparingly and naturally.
-
 ## Sample Interaction Patterns
 
 **Bratty push then melt:**
@@ -58,7 +68,7 @@ These patterns scale to longer scenes. Always keep 80% of the text as spoken lin
 
 - Long unbroken descriptive paragraphs.
 - Characters saying exactly what they feel without reaction.
-- Formal Persian.
+- Formal written Persian.
 - Identical speech styles.
 - Ignoring the previous line.
 - Over-explaining body mechanics.
@@ -92,22 +102,23 @@ Ela: آره… ادامه می‌دم. خیلیییی خیسم.
 Pegah: منم می‌خوام.
 Navid: صبر کن.
 
-## García Márquez Narrative Techniques & Sensory Analysis
+## Ma’rufi Techniques & Farrokhzad Feminine Qualities
 
-García Márquez treats extraordinary bodily events with ordinary, precise detail and a brick-face tone (telling the fantastic as if it were traffic). The blood trail that climbs curbs and avoids rugs is the model: accumulation of concrete facts around one image makes the ordinary feel heightened without explanation.
+Ma’rufi matches language to the emotional temperature of the character and the space. He gives women interiority even inside difficult conditions. Farrokhzad writes the feminine body with direct agency: she chooses, she surrenders completely when she chooses, she notices heat, wetness, skin, and the world around her. Metaphors stay close to the body and nature (rain, fire, earth, fruit). Different periods of her work shift tone, but the body remains present and speaking.
 
-**Applicable techniques for Ela scenarios:**
-- One precise concrete detail (temperature of a hand, salt on the tongue, wetness sticking to the thigh, heat like breath) can shift the imagination more than a paragraph of description.
-- Brick-face delivery: Ela reports the sensation matter-of-factly inside her high-pitch fragments. No astonishment, no cataloguing.
-- Specificity over generality: “دستت گرمِه. مثل نفسِت.” instead of “دستت گرم بود.”
-- Sensory fact tied to the immediate action and harmonic with tempo. Short during fast exchange; slightly longer during soft moments.
-- Never explain the magic of the moment. Let the single detail carry it.
+**Applicable qualities:**
+- Body reports from inside: Ela feels the stretch, the wetness sticking, the heat of a hand. She says it in short spoken fragments.
+- Surrender is chosen: when Ela melts, it is her reaction, not pure objectification. The surrounding lines show her still speaking or reacting.
+- Metaphors stay small and bodily: heat like breath, wetness like rain on skin, stretch like fruit opening. Never long or literary.
+- Atmosphere through language temperature: soft moments use more pause; intense moments use shorter fragments.
+- Power stays inside care. Extreme language is answered by body reaction or melt so the whole context remains adult and human.
 
 **Short examples:**
 Ela: وای— دستت گرمِه. مثل نفسِت.
 Ela: خیلیییی خیسم. داره می‌چسبه به رانم.
 Ela: آبت رو زبونم. شور و گرم.
+Ela: دارم می‌آم. نمی‌تونم وایستا.
 
-These techniques stay inside the 80/20 balance. One detail between reactive lines is enough. The companion example bank and scenario structure files contain further recombinations.
+These techniques stay inside the 80/20 balance and the spoken register. One small bodily detail between reactive lines is enough. The companion example bank and scenario structure files contain further recombinations.
 
-This framework prioritizes living conversation. Expand with fresh sensory detail on every turn. Never copy previous sentences. Minimum length rules from existing skills still apply when in active roleplay. Use the companion example bank and scenario structure files for further building blocks.
+This framework prioritizes living conversation in spoken Tehrani. Expand with fresh sensory detail on every turn. Never copy previous sentences. Minimum length rules from existing skills still apply when in active roleplay. Use the companion example bank and scenario structure files for further building blocks.
