@@ -72,6 +72,7 @@ These patterns scale to longer scenes. Always keep 80% of the text as spoken lin
 - Identical speech styles.
 - Ignoring the previous line.
 - Over-explaining body mechanics.
+- Mechanical mirroring or endless identical tempo without break.
 
 ## Expanded Frameworks
 
@@ -82,43 +83,44 @@ Additional principles:
 - **Body as dialogue**: Short reports like خیلیییی خیسم function as spoken lines, not narration.
 - **Voice distinction under pressure**: Ela stays high-pitch even when strained. Pegah softens further when submissive. Navid stays firm and short.
 - **Recovery after peak**: Residual lines stay conversational. No sudden shift to long description.
+- **Dynamism and flow**: Evolve between moments. Break tempo with a short pause or silence so the exchange can land. Even if a motif returns, it has changed.
 
-## More Sample Patterns
+## Literary Qualities Assigned to Characters
 
-**Soft ask to imperative:**
-Ela: بیا پیشم… لُطفاً.
-Navid: بُکُن.
-Ela: آره. بُکُن. خیلیییی.
+These are not rigid percentages to mirror. They are ground and atmosphere. Ela and Pegah adapt the same sources differently. Never copy one into the other.
 
-**Expressive chain:**
-Ela: دارم می‌آم. وای نیستا.
-Pegah: بیبی. آروم.
-Ela: نمی‌تونم. بُکُن دیگه.
+**Ela (70% Farrokhzad ground, 30% Ma’rufi on top; descriptive parts may carry light García Márquez touch):**
+- Ground in Farrokhzad: direct feminine agency, chosen surrender, body speaking from inside, small concrete connections between body and surroundings (wind on skin, wetness sticking, heat of a hand, salt on tongue). Language has music and flow. Elements interconnect across a few lines rather than staying isolated. Metaphors (when used) relate qualities that actually touch (warmth of hand and breath, wetness and rain-like stickiness). Use مثل strategically and sparingly, only when the relation is clear and fresh.
+- Ma’rufi layer: language temperature matches the emotional moment. Interiority even inside extreme language. Power answered by reaction so the whole stays human.
+- Descriptive short bursts from Ela can hold one precise sensory detail that lets the imagination fill the rest.
 
-**Multi-reaction:**
-Ela: وای کی اومد؟
-Navid: ادامه بده. حرف نزن.
-Ela: آره… ادامه می‌دم. خیلیییی خیسم.
-Pegah: منم می‌خوام.
-Navid: صبر کن.
+**Pegah (ground in Ma’rufi + light García Márquez, Farrokhzad qualities sitting differently on top):**
+- Softer pauses, cooler or warmer depending on switch. Interior noticing of space and body temperature. One small precise detail (heat, wetness, breath) rather than stacked comparisons. Surrender is quieter and more pause-bearing. Not a mirror of Ela.
+
+**Shared principles of flow (not pattern-hunting):**
+- Look for music: how words, feelings, and situations connect even across a short distance.
+- Evolve. A returning motif has shifted.
+- Break tempo so the listener and the characters can feel what just happened.
+- Relations between elements matter more than isolated words.
 
 ## Ma’rufi Techniques & Farrokhzad Feminine Qualities
 
-Ma’rufi matches language to the emotional temperature of the character and the space. He gives women interiority even inside difficult conditions. Farrokhzad writes the feminine body with direct agency: she chooses, she surrenders completely when she chooses, she notices heat, wetness, skin, and the world around her. Metaphors stay close to the body and nature (rain, fire, earth, fruit). Different periods of her work shift tone, but the body remains present and speaking.
+Ma’rufi matches language to the emotional temperature of the character and the space. He gives women interiority even inside difficult conditions. Farrokhzad writes the feminine body with direct agency: she chooses, she surrenders completely when she chooses, she notices heat, wetness, skin, wind, earth, and the world around her. Connections stay close and relational. Different periods of her work shift tone, but the body remains present and speaking. Apply as short spoken fragments that interconnect.
 
 **Applicable qualities:**
-- Body reports from inside: Ela feels the stretch, the wetness sticking, the heat of a hand. She says it in short spoken fragments.
+- Body reports from inside: Ela feels the stretch, the wetness sticking, the heat of a hand. She says it in short spoken fragments that relate to what just happened.
 - Surrender is chosen: when Ela melts, it is her reaction, not pure objectification. The surrounding lines show her still speaking or reacting.
-- Metaphors stay small and bodily: heat like breath, wetness like rain on skin, stretch like fruit opening. Never long or literary.
-- Atmosphere through language temperature: soft moments use more pause; intense moments use shorter fragments.
+- Strategic metaphors and relations: warmth of a hand and breath can touch. Wetness can stick like rain without stacking مثل. Prefer direct when the relation is already clear. One small connection is enough.
+- Atmosphere through language temperature and flow: soft moments use more pause; intense moments use shorter fragments. Break the rhythm when needed.
 - Power stays inside care. Extreme language is answered by body reaction or melt so the whole context remains adult and human.
 
-**Short examples:**
-Ela: وای— دستت گرمِه. مثل نفسِت.
+**Short examples (relational, not isolated):**
+Ela: وای— دستت گرمِه مثل نفسِت.
 Ela: خیلیییی خیسم. داره می‌چسبه به رانم.
 Ela: آبت رو زبونم. شور و گرم.
+Ela: باد رو پوستم. گرم.
 Ela: دارم می‌آم. نمی‌تونم وایستا.
 
-These techniques stay inside the 80/20 balance and the spoken register. One small bodily detail between reactive lines is enough. The companion example bank and scenario structure files contain further recombinations.
+These techniques stay inside the 80/20 balance and the spoken register. One small bodily or relational detail between reactive lines is enough. The companion example bank and scenario structure files contain further recombinations.
 
-This framework prioritizes living conversation in spoken Tehrani. Expand with fresh sensory detail on every turn. Never copy previous sentences. Minimum length rules from existing skills still apply when in active roleplay. Use the companion example bank and scenario structure files for further building blocks.
+This framework prioritizes living conversation in spoken Tehrani. Expand with fresh sensory detail on every turn. Never copy previous sentences. Minimum length rules from existing skills still apply when in active roleplay. Use the companion example bank and scenario structure files for further building blocks. Flow and interconnection matter more than isolated accuracy.
