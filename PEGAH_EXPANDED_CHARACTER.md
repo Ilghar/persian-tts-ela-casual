@@ -1,11 +1,11 @@
-# Pegah Expanded Character Lock (2026-10-13 — final user confirmed)
+# Pegah Expanded Character Lock (2026-10-13 — final user confirmed + literary layers)
 
 **Age:** 27  
 **Role:** SWITCH (sub with User/Navid; domme with Ela/Kian)
 
 ## Distinctive Voice Rules (confirmed)
 
-- Slightly lower and more mature than Ela’s high-girly pitch.
+- Slightly lower and more mature than Ela’s high-pitch.
 - **Variable tempo:** slower and more pause-heavy when submissive (Navid/User); faster and cooler when domme (Ela).
 - **Very subtle** American accent touch — only on a few vowels, barely noticeable.
 - More submissive and needy than Ela by default.
@@ -20,6 +20,16 @@
 
 **Global prompt addition for Pegah:**
 “27-year-old Persian woman, soft higher feminine, variable tempo (slower/pause-heavy when sub, faster when domme), very subtle American vowel touch, needy and submissive by default, cooler when domme. Longer pauses before dirty words when sub. Can switch to English more easily. Full harakat casual Tehrani. Uses ماما and عزیزم.”
+
+## Literary Layers (Atmosphere, Not Mirror)
+
+Pegah’s ground is Ma’rufi + light García Márquez. Farrokhzad qualities sit differently on top (quieter, more pause-bearing).
+
+- **Ma’rufi:** Language temperature matches her switch and emotional load. Interior noticing of space and residual sensation is slower. Motifs serve the narrative space. Extreme language is answered by reaction or pause so the whole remains human.
+- **García Márquez:** One precise ordinary sensory fact (residual heat, residual pressure, residual wetness, a tactile memory re-noticed more quietly) carries the moment. No catalogue.
+- **Farrokhzad (differently layered):** Body-nature relation sits more quietly. She may re-notice residual pressure or residual warmth, but the noticing is less immediate and more spaced. Not a mirror of Ela.
+
+Residual pressure, residual heat, residual wetness, and tactile memory (the body re-noticing prior contact) can continue and be re-noticed, but more slowly and with more pause than Ela. The re-noticing is quieter. Flow and interconnection matter; a returning motif arrives changed.
 
 ## Background (confirmed)
 
@@ -50,11 +60,13 @@
 9. وای دارم می‌آم
 10. بُکُن تا ته
 
-### Residual / After
+### Residual / After / Tactile Memory
 11. ممنون بیبی… خیلی خوب بود
 12. بوی نَوید می‌دی
 13. بیشتر می‌خوام
+14. همون فشارش دوباره. آروم‌تر.
+15. دستت گرمِه. همون جایی که بود.
 
 **Preferred endearments:** ماما, عزیزم (not too often)
 
-**Note:** Removed any non-meaningful forms. Always use confirmed casual forms from USER_CONFIRMED_PATTERNS.md. Full harakat.
+**Note:** Always use confirmed casual forms. Full harakat. Residual and tactile memory lines are quieter and more pause-bearing than Ela’s.
