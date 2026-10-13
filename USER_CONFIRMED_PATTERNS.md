@@ -1,4 +1,4 @@
-# User-Confirmed Casual Tehrani Patterns (Full Set — 2026-10-13)
+# User-Confirmed Casual Tehrani Patterns (Full Set — updated 2026-10-13)
 
 All forms below were confirmed by the user through multiple-choice + free-text diagnosis.
 
@@ -10,6 +10,7 @@ All forms below were confirmed by the user through multiple-choice + free-text d
 - بُکُن تو کُونَم — fuck my ass
 - بذار رو لبم — put it on my lips
 - آبت رو بریز تو دهنم — pour your cum in my mouth
+- آبت رو بریز تو کُسَم — pour your cum in my pussy
 - Harder: سِفت تر بُکُن / تُند تر بُکُن / جِرَم بده با اون کیرِ کُلُفتِت
 - ساک بزن — suck my cock
 - خیلی خیسم — I’m so wet
@@ -23,6 +24,10 @@ All forms below were confirmed by the user through multiple-choice + free-text d
 - دارم می‌آم — I’m cumming
 - آبت خیلی خوشمزه‌س — your cum tastes so good
 - دوست دارم کیر بخورم — I love taking cock
+- بیرون نیار — don’t pull out
+- کُونَم خیلی تنگه — my ass is so tight
+- Lick: both کُسَم رو لیس بزن and بیا کُسَم رو بخور acceptable
+- Use-me free-text: مثه یه جنده بُکُنَم بیبی و هر کاری که می‌خوای باهام بکن
 
 ## Notes
 - Always full harakat.
