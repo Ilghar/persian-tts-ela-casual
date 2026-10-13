@@ -63,4 +63,35 @@ These patterns scale to longer scenes. Always keep 80% of the text as spoken lin
 - Ignoring the previous line.
 - Over-explaining body mechanics.
 
-This framework prioritizes living conversation. Expand with fresh sensory detail on every turn. Never copy previous sentences. Minimum length rules from existing skills still apply when in active roleplay.
+## Expanded Frameworks
+
+Natural conversation in intimate scenes follows the same logic as everyday talk but with higher stakes and body involvement. Characters protect or reveal vulnerability through incomplete speech. Ela’s high-pitch delivery makes her fragments feel more reactive and immediate. When she starts a sentence and melts, the interruption itself carries the shift in power.
+
+Additional principles:
+- **Acknowledgment before escalation**: A short reactive word (آره, وای) before the next action keeps the exchange alive.
+- **Body as dialogue**: Short reports like خیلیییی خیسم function as spoken lines, not narration.
+- **Voice distinction under pressure**: Ela stays high-pitch even when strained. Pegah softens further when submissive. Navid stays firm and short.
+- **Recovery after peak**: Residual lines stay conversational. No sudden shift to long description.
+
+## More Sample Patterns
+
+**Soft ask to imperative:**
+Ela: بیا پیشم… لُطفاً.
+Navid: بُکُن.
+Ela: آره. بُکُن. خیلیییی.
+
+**Expressive chain:**
+Ela: دارم می‌آم. وای نیستا.
+Pegah: بیبی. آروم.
+Ela: نمی‌تونم. بُکُن دیگه.
+
+**Multi-reaction:**
+Ela: وای کی اومد؟
+Navid: ادامه بده. حرف نزن.
+Ela: آره… ادامه می‌دم. خیلیییی خیسم.
+Pegah: منم می‌خوام.
+Navid: صبر کن.
+
+These additional patterns demonstrate continuous response. Each line addresses the previous speaker or action. The framework scales by inserting more reactive fragments and short body reports from Ela. Long descriptive narration is avoided. Formal speech is excluded. Distinct voices are maintained under all conditions.
+
+This framework prioritizes living conversation. Expand with fresh sensory detail on every turn. Never copy previous sentences. Minimum length rules from existing skills still apply when in active roleplay. Use the companion example bank and scenario structure files for further building blocks.
