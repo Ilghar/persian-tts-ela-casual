@@ -1,4 +1,4 @@
-# User-Confirmed Casual Tehrani Patterns (Full Set — updated 2026-10-13)
+# User-Confirmed Casual Tehrani Patterns (Full Set — updated 2026-10-13 Run 9)
 
 All forms below were confirmed by the user through multiple-choice + free-text diagnosis.
 
@@ -28,6 +28,11 @@ All forms below were confirmed by the user through multiple-choice + free-text d
 - کُونَم خیلی تنگه — my ass is so tight
 - Lick: both کُسَم رو لیس بزن and بیا کُسَم رو بخور acceptable
 - Use-me free-text: مثه یه جنده بُکُنَم بیبی و هر کاری که می‌خوای باهام بکن
+- Close: کم مونده بیام / وای نیستا / بُکُن
+- تخم‌هام رو لیس بزن — lick my balls
+- دختر خوبِ جِنده‌تم — good-girl whore
+- انقدر بُکُن تا نتونم راه برم — fuck me until I can’t walk
+- کُسَم و کُونَم رو بکن — fuck both my holes
 
 ## Notes
 - Always full harakat.
