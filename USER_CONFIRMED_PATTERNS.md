@@ -1,6 +1,8 @@
-# User-Confirmed Casual Tehrani Patterns (2026-10-13)
+# User-Confirmed Casual Tehrani Patterns (Full Set — 2026-10-13)
 
-## Confirmed forms
+All forms below were confirmed by the user through multiple-choice + free-text diagnosis.
+
+## Core confirmed forms
 
 - بُکُن توش — put it inside
 - خیلیییی کیرِت رو می‌خوام تو کُسَم — I really want your cock in my pussy
@@ -13,6 +15,16 @@
 - خیلی خیسم — I’m so wet
 - وا کن دهنت رو — open your mouth
 - کیرِت رو بکن تو گلوم — fuck my throat
-- Tight/wet: both کُسَم خیلی تنگه and کُسَم خیلی خیسه acceptable
+- جِنده‌تم / جِنده ى تواَم فقط — I’m your whore
+- من خیلی دختر خوبی اَم — I’m a very good girl
+- بیا بِشین رو صورتم و کُسِت رو بِمال رو دهنم — sit on my face and rub your pussy on my mouth
+- می‌خوام مزه آبت رو بچشم — I want to taste your cum
+- کیرِت خیلی کُلُفته — your cock is so thick
+- دارم می‌آم — I’m cumming
+- آبت خیلی خوشمزه‌س — your cum tastes so good
+- دوست دارم کیر بخورم — I love taking cock
 
-Always full harakat. Casual street Tehrani only.
+## Notes
+- Always full harakat.
+- Casual street Tehrani only. Formal = error.
+- Prefer these exact patterns in voice mode and scenarios.
