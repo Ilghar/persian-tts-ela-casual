@@ -1,14 +1,14 @@
-# Character Voice Fit for Audio Layers (Stage 5)
+# Character Voice Fit for Audio Layers (Stage 5 — corrected)
 
 ## Assigned Grok Voices
 
-- **Ela (Ella)**: Leora — high-pitched feminine girly, bright, slightly sleepy Tehrani energy.
+- **Ela (Ella)**: Liora — high-pitched feminine girly, bright, slightly sleepy Tehrani energy.
 - **Pegah**: Ara — softer, more mature feminine, breathier, variable tempo.
 - **Navid**: lower firm male (Leo/Rex/Sal style with khash texture).
 
 ## Moan / Peak Vocal Fit Rules
 
-### Ela (Leora)
+### Ela (Liora)
 - Moans must stay high-girly and bright. Prefer shorter rising or sharp higher-pitch clips.
 - Avoid deep or low adult moans. Peak can go sharp and bright, not husky.
 - Loud pleasure / sexual scream: short, higher, bright burst that still feels young and girly.
@@ -26,12 +26,12 @@
 ## Integration Notes for Scenarios
 
 When writing tags, always include the voice character:
-- `[Ela Leora close breathy]: dialogue`
+- `[Ela Liora close breathy]: dialogue`
 - `[Pegah Ara further soft]: drawn-out moan`
-- `[Ela Leora loud pleasure]: short bright higher peak`
+- `[Ela Liora loud pleasure]: short bright higher peak`
 - `[Pegah Ara soft loud]: longer breathy louder moan`
 
-If using external moan clips, select or process them so pitch and quality match the assigned Grok voice (high-girly for Leora/Ela, softer for Ara/Pegah).
+If using external moan clips, select or process them so pitch and quality match the assigned Grok voice (high-girly for Liora/Ela, softer for Ara/Pegah).
 
 ## Testing Notes
 
@@ -40,4 +40,4 @@ If using external moan clips, select or process them so pitch and quality match 
 - Tempo sync: body sounds must match the described rhythm for the character (slower pauses for Pegah when sub).
 - Spatial and intensity must stay consistent with the voice assignment.
 
-Stage 5 adds character-voice fit locking for Leora and Ara.
+Stage 5 adds character-voice fit locking for Liora and Ara.
